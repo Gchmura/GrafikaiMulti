@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafikaZaj4", "Assembly-CSharp-firstpass.csproj", "{CCE7FF61-8F90-E69C-3C0F-6ADD85DCBA5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafikaZaj4", "Assembly-CSharp-Editor-firstpass.csproj", "{176D3D9B-2987-46A1-59A8-42D1692309DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE7FF61-8F90-E69C-3C0F-6ADD85DCBA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE7FF61-8F90-E69C-3C0F-6ADD85DCBA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE7FF61-8F90-E69C-3C0F-6ADD85DCBA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE7FF61-8F90-E69C-3C0F-6ADD85DCBA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{176D3D9B-2987-46A1-59A8-42D1692309DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176D3D9B-2987-46A1-59A8-42D1692309DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176D3D9B-2987-46A1-59A8-42D1692309DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176D3D9B-2987-46A1-59A8-42D1692309DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
